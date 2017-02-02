@@ -1,3 +1,4 @@
+
 var handle = document.getElementById('handle'),
     start = false,
     startTop;
